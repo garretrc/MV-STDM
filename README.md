@@ -19,7 +19,7 @@ This file contains the data generation, MCMC, and figures for the simulated data
 
 ## 03, 04, 05 MCMC sampling scripts
 
-These files contain the code to run the DLM sampler, contained in spatial_stats/dlm_code, and produce the results for the full data and both s1 and s2. Results are saved in cee drive, cldera/obs_thrust/dm_results.
+These files contain the code to run the DLM sampler, contained in spatial_stats/dlm_code, and produce the results for the full data and both s1 and s2.
 
 ## 06, 07, 08 data visualization scripts
 
