@@ -1,6 +1,6 @@
 # Multivariate Space-Time Dynamic Linear Model (MVSTDM)
 
-## Authors: Robert Garret, Lyndsay Shand, J. Gabriel Huerta
+## Authors: Robert Garrett, Lyndsay Shand, J. Gabriel Huerta
 
 ## This code repository includes code to implement the multivariate space-time dynamic linear model and to recreate the results highlighted in our manuscript. 
 
@@ -17,10 +17,10 @@ Data processing script to obtain the multivariate spatiotemporal field matrices 
 
 This file contains the data generation, MCMC, and figures for the simulated data example.
 
-## 03, 04, 05_mcmc...
+## 03, 04, 05 MCMC sampling scripts
 
 These files contain the code to run the DLM sampler, contained in spatial_stats/dlm_code, and produce the results for the full data and both s1 and s2. Results are saved in cee drive, cldera/obs_thrust/dm_results.
 
-## 06, 07, 08 plots
+## 06, 07, 08 data visualization scripts
 
 These files contain the figures for the results sections and a few additional explorations of the posterior samples.
