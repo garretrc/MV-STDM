@@ -24,3 +24,7 @@ These files contain the code to run the DLM sampler, contained in spatial_stats/
 ## 06, 07, 08 data visualization scripts
 
 These files contain the figures for the results sections and a few additional explorations of the posterior samples.
+
+# Copyright notice
+
+Copyright 2024 National Technology & Engineering Solutions of Sandia, LLC (NTESS). Under the terms of Contract DE-NA0003525 with NTESS, the U.S. Government retains certain rights in this software.
