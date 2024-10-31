@@ -1,4 +1,4 @@
-# Multivariate Sapce-Time Dynamic Linear Model (MVSTDM)
+# Multivariate Space-Time Dynamic Linear Model (MVSTDM)
 
 ## Authors: Robert Garret, Lyndsay Shand, J. Gabriel Huerta
 
